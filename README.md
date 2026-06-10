@@ -1,5 +1,9 @@
-## Hi there 👋
+## 🇦🇷 ¡Muy buen día para todos! 👋
 
+I'm Mariano! I am in the third year of my Software Development degree.
+
+Learning C#, Java, Python, HTML, JavaScript, mySQL.
+Assisted to Data Networks, Digital Systems, Operating Systems, Project Management and System Testing
 <!--
 **Alborongo/Alborongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
